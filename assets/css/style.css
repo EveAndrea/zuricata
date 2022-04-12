@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+
+.fondo_header {
+    background: #E83E8C;
+  }
+  
+.navbar-nav a {
+    font-weight: 400;
+    font-size: 1rem;
+    color: white;
+}
+
+
+.navbar-brand img {
+    height: 3.3rem;
+
+}
+
+.h1_productos {
+    color: #707070;
+    font-size: 60px;
+    font-weight:700 ;
+    opacity: 1;
+}
+
+.iconos_tarjetas {
+  background-color: #17A2B8;
+  color: white;
+}
+
+.fondo_footer {
+  background: #E83E8C;
+}
+
+.logo_footer img {
+  height: 7rem;
+}
+
+.card-title {
+  color:#373A3C;
+  font-size: 17px;
+  font-weight:700 ;
+}
